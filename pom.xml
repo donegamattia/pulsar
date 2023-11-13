@@ -304,12 +304,10 @@ flexible messaging model and an intuitive client API.</description>
 
     <!-- Used to configure rename.netty.native. Libs -->
     <rename.netty.native.libs>rename-netty-native-libs.sh</rename.netty.native.libs>
+    <sonar.organization>donegamattia</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
   </properties>
 
-  <properties>
-  <sonar.organization>donegamattia</sonar.organization>
-  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-  </properties> 
 
   <dependencyManagement>
     <dependencies>
