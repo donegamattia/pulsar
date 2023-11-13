@@ -306,6 +306,11 @@ flexible messaging model and an intuitive client API.</description>
     <rename.netty.native.libs>rename-netty-native-libs.sh</rename.netty.native.libs>
   </properties>
 
+  <properties>
+  <sonar.organization>donegamattia</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  </properties> 
+
   <dependencyManagement>
     <dependencies>
 
